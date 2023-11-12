@@ -1,5 +1,5 @@
-# spotify-clone
-<h1 align="center"> Spotfy </h1>
+              # spotify-clone
+<h1 align="center"> Aprendizados </h1>
 
 ## 🚀 Tecnologias
 
