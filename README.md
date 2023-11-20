@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido para treina as propriedades do flex-box e acostumar com o Github Desktop
+Esse projeto foi desenvolvido para treina as propriedades do flex-box mais o Github Desktop
 
 
 
